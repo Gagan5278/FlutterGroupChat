@@ -14,4 +14,4 @@ Please note that, App user Google Cloud Storage for building Stream inside the a
 
 #### (Blured UI becuase of free Version of GIF maker)
 
-![Flutter_Chat_Demo](https://user-images.githubusercontent.com/2304583/93506170-2eee6f80-f91c-11ea-8d97-e1ebf5fd3297.gif)
+![GroupChatDemo](https://user-images.githubusercontent.com/2304583/93506379-7674fb80-f91c-11ea-8670-c76288bfcc8e.gif)
