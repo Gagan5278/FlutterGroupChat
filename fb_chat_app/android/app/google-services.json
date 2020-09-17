@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734651545121",
+    "firebase_url": "https://chatapp-34b81.firebaseio.com",
+    "project_id": "chatapp-34b81",
+    "storage_bucket": "chatapp-34b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734651545121:android:3959e25b0b2a4e4ff4d560",
+        "android_client_info": {
+          "package_name": "com.example.fb_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734651545121-6h4m4suivupotaqknb4g3jsdbnhuh1fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBc6zmKcaxvpwAIUw6fyAm310MIu_544"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734651545121-6h4m4suivupotaqknb4g3jsdbnhuh1fd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734651545121-dm78g8k6q7b31k44m52ngrll354fuovo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.momentum.multiply.money"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
