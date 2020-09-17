@@ -12,3 +12,6 @@ Please note that, App user Google Cloud Storage for building Stream inside the a
 ![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-09-17 at 18 47 20](https://user-images.githubusercontent.com/2304583/93505877-be475300-f91b-11ea-81a9-96757e1c8f54.png)
 
 
+#### (Blured UI becuase of free Version of GIF maker)
+
+![Flutter_Chat_Demo](https://user-images.githubusercontent.com/2304583/93506170-2eee6f80-f91c-11ea-8d97-e1ebf5fd3297.gif)
